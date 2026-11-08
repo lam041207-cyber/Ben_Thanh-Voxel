@@ -1,47 +1,64 @@
-Ben Thanh Voxel City
 
-An interactive 3D voxel world inspired by Ben Thanh Market and the beautiful city of Saigon (Ho Chi Minh City), Vietnam.
+# 🏙️ Ben Thanh Voxel
 
-Explore a colorful voxel-style environment featuring iconic landmarks, city streets, and an immersive atmosphere.
+**Explore Ben Thanh Market in a beautiful voxel-art world!**
 
-🌐 Live Demo
+Experience a voxel-inspired recreation of Ben Thanh Market in Saigon, Vietnam.
 
-Play the game here:
+## 🎮 Play Online
 
-Ben Thanh Voxel City
+Play Ben Thanh Voxel directly in your browser. No download or installation required!
 
-✨ Features
+### 👉 [PLAY BEN THANH VOXEL](https://leafy-madeleine-282808.netlify.app/)
 
-🧱 3D voxel-style environment
+## 🌆 About the Project
 
-🏙️ Explore a virtual version of Saigon
+Ben Thanh Voxel is an independent voxel-art project inspired by the iconic Ben Thanh Market in Ho Chi Minh City, Vietnam.
 
-🛍️ Ben Thanh Market-inspired environment
+The project brings Vietnamese architecture and a recognizable landmark into a playful 3D voxel environment.
 
-🚇 Metro Line 1 and city elements
+## ✨ Features
 
-🌦️ Immersive atmosphere and interactive features
+- 🏙️ Voxel-inspired Ben Thanh Market
+- 🌆 3D environment
+- 🎮 Interactive exploration
+- 🧱 Block-based artistic style
+- 🌐 Browser-based experience
+- 💻 Play online without downloading files
 
-🎮 How to Play
+## 🛠️ Built With
 
-Open the game using the Live Demo link.
+- HTML
+- JavaScript
+- CSS
+- 3D graphics technologies
 
-Explore the 3D environment.
+## ❤️ Support Development
 
-Enjoy discovering the virtual city!
+Ben Thanh Voxel is an independent project.
 
-🛠️ Technologies
+If you enjoy the experience and want to support its development, you can make a voluntary donation.
 
-HTML
+Your support helps with:
+- Future environments and buildings
+- New features and improvements
+- Bug fixes and maintenance
+- Continued development
 
-CSS
+Donations are completely optional and do not provide gameplay advantages.
 
-JavaScript
+## 🗺️ Future Plans
 
-WebGL / 3D graphics
+- [ ] Improve the voxel environment
+- [ ] Add more Vietnamese landmarks
+- [ ] Improve graphics and performance
+- [ ] Add new exploration features
+- [ ] Expand the world
 
-📌 About
+## 👨‍💻 Developer
 
-This project is a personal experiment in web development and interactive 3D environments.
+Created by **Lam Nguyen**.
 
-Created with ❤️ in Vietnam.
+---
+
+**Thank you for exploring Ben Thanh Voxel!** 🇻🇳
